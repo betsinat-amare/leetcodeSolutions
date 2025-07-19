@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0136-single-number) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
