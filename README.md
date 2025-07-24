@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1013-fibonacci-number) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
