@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
 | ------- |
