@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0355-design-twitter](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2689-rearranging-fruits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/2689-rearranging-fruits) |
@@ -89,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0355-design-twitter) |
 | [0860-design-circular-queue](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0355-design-twitter](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0355-design-twitter) |
 | [0860-design-circular-queue](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0355-design-twitter) |
 ## Monotonic Queue
 |  |
 | ------- |
