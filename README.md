@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1121-partition-array-for-maximum-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2689-rearranging-fruits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/2689-rearranging-fruits) |
 ## Two Pointers
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1013-fibonacci-number) |
+| [1121-partition-array-for-maximum-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1250-longest-common-subsequence](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
 |  |
