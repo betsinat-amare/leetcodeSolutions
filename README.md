@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0940-fruit-into-baskets) |
 ## Heap (Priority Queue)
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0171-excel-sheet-column-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
