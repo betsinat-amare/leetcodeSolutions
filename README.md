@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0046-permutations) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0283-move-zeroes) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0075-sort-colors) |
