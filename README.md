@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0283-move-zeroes) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0940-fruit-into-baskets) |
 ## Heap (Priority Queue)
