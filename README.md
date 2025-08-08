@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0118-pascals-triangle) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0200-number-of-islands) |
 ## Graph
