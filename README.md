@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0792-binary-search) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2689-rearranging-fruits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/2689-rearranging-fruits) |
 ## Dynamic Programming
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0792-binary-search](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0355-design-twitter](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0355-design-twitter) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Graph
 |  |
 | ------- |
