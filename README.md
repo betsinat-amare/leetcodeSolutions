@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
