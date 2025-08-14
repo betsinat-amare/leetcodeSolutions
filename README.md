@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0326-power-of-three) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0168-excel-sheet-column-title](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
