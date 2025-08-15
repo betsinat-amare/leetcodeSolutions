@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0118-pascals-triangle) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
