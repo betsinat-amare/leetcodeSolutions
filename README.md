@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0792-binary-search](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0415-add-strings) |
 | [0900-reordered-power-of-2](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1013-fibonacci-number) |
