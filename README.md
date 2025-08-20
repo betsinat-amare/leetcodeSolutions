@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0747-min-cost-climbing-stairs](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0338-counting-bits) |
+| [0747-min-cost-climbing-stairs](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 | [1121-partition-array-for-maximum-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1250-longest-common-subsequence](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1250-longest-common-subsequence) |
