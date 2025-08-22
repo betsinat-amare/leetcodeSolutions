@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1206-corporate-flight-bookings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2689-rearranging-fruits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/2689-rearranging-fruits) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Graph
 |  |
 | ------- |
