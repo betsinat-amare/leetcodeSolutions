@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0130-surrounded-regions) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0324-wiggle-sort-ii) |
