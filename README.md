@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2689-rearranging-fruits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/2689-rearranging-fruits) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
