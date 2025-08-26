@@ -13,24 +13,19 @@ class Solution:
         if not root:
             return None
         
-        q = deque([root])
+        leftmost = root
         
-        while q:
-            level_size = len(q)
-            prev = None
-
-            for _ in range(level_size):
-                node = q.popleft()
-                
-                if prev:
-                    prev.next = node
-                prev = node
-
-                if node.left:
-                    q.append(node.left)
-                if node.right:
-                    q.append(node.right)
+        while leftmost.left:
+            head = leftmost
             
-            prev.next = None
+            while head:
+                head.left.next = head.right
+
+                if head.next:
+                    head.right.next = head.next.left
+
+                head = head.next  
+            
+            leftmost = leftmost.left  
         
         return root
