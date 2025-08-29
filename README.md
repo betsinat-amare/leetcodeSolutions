@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0213-house-robber-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0322-coin-change) |
