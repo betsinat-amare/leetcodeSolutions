@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0200-number-of-islands) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0355-design-twitter) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -388,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0692-top-k-frequent-words](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0692-top-k-frequent-words) |
