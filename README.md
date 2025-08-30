@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0046-permutations) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
