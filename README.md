@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1206-corporate-flight-bookings](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1206-corporate-flight-bookings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Graph
 |  |
