@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0203-remove-linked-list-elements](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0355-design-twitter) |
 | [0860-design-circular-queue](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0860-design-circular-queue) |
 ## Design
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0342-power-of-four) |
