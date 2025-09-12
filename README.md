@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0062-unique-paths) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0231-power-of-two) |
