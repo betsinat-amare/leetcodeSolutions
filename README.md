@@ -141,12 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2689-rearranging-fruits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/2689-rearranging-fruits) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0900-reordered-power-of-2](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0415-add-strings) |
 | [0692-top-k-frequent-words](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [1250-longest-common-subsequence](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1250-longest-common-subsequence) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Combinatorics
 |  |
 | ------- |
