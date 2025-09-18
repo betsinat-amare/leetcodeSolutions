@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0213-house-robber-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0324-wiggle-sort-ii) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0415-add-strings](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0415-add-strings) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0045-jump-game-ii) |
+| [0179-largest-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0324-wiggle-sort-ii) |
 | [1448-maximum-69-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1448-maximum-69-number) |
 | [2689-rearranging-fruits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/2689-rearranging-fruits) |
