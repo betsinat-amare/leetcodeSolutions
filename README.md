@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1121-partition-array-for-maximum-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1206-corporate-flight-bookings](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1206-corporate-flight-bookings) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1448-maximum-69-number) |
