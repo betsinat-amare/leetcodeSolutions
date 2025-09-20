@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1121-partition-array-for-maximum-sum](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1206-corporate-flight-bookings](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1206-corporate-flight-bookings) |
+| [1293-three-consecutive-odds](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
