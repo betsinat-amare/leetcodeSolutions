@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2689-rearranging-fruits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/2689-rearranging-fruits) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2689-rearranging-fruits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/2689-rearranging-fruits) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0900-reordered-power-of-2](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
