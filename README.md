@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0830-largest-triangle-area) |
 | [0860-design-circular-queue](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0940-fruit-into-baskets) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0415-add-strings) |
+| [0830-largest-triangle-area](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 ## Stack
 |  |
