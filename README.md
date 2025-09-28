@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1039-find-the-town-judge) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0900-reordered-power-of-2](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [1014-k-closest-points-to-origin](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2689-rearranging-fruits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/2689-rearranging-fruits) |
 ## Dynamic Programming
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0324-wiggle-sort-ii) |
 | [0611-valid-triangle-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1448-maximum-69-number) |
 | [2689-rearranging-fruits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/2689-rearranging-fruits) |
 ## Union Find
