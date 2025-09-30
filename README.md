@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2689-rearranging-fruits](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/1448-maximum-69-number) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3830-find-closest-person](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/0415-add-strings) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/betsinat-amare/leetcodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
